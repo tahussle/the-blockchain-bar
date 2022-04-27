@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/web3coach/the-blockchain-bar/database"
+	"github.com/tahussle/the-blockchain-bar/database"
 	"fmt"
 	"os"
 )
